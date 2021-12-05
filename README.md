@@ -7,5 +7,5 @@ This project includes three data sets:
 - isp_country_codes.csv (It includes country codes used by different systems.)
 
 isp_gdp.csv provides all the detailed GDP data and pygal_country_list.csv is used by pygal to map data in the world map. 
-However, country codes used by pygal are different from country codes from GDP dataset. Therefore, isp_country_codes.csv is useful for it
+However, country codes used by pygal dataset are different from country codes from GDP dataset. Therefore, isp_country_codes.csv is useful for it
 includes all the codes used by different systems. I will use it as a bridge to map codes from pygal dataset to codes from GDP dataset. 
